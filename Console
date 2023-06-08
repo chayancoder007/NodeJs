@@ -1,0 +1,7 @@
+In Node js we can perform our operation in console window .
+by some keywords and syntax 
+by calling our file name in the console window 
+for example we have a file name Node.js
+we just have to write=>  node .\node.js 
+in the console window to call that file and automatically the program in your node.js file will exicuted and give you required out put
+
